@@ -10,7 +10,7 @@ import com.example.mvpdemo.model.MainModel;
 
 import butterknife.BindView;
 import butterknife.ButterKnife;
-//
+//、
 public class MainActivity extends BaseMvpActivity<MainModel> {
 
 
